@@ -1,0 +1,12 @@
+@import './variables.css';
+
+.btn{
+    background-color: purple;
+    color: white;
+}
+
+.hero-text{
+    font-size: 42px;
+    color: red;
+    line-height: 1.1;
+}
